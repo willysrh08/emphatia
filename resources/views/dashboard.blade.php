@@ -204,7 +204,7 @@
                                     </div>
                                     <div class="flex flex-col">
                                         <div class="flex items-center gap-1.5">
-                                            <span class="text-[15px] font-bold text-white">{{ $nextSession->psychologist_name ?? 'Gladys Fredelina, M.Psi' }}</span>
+                                            <span class="text-[15px] font-bold text-white">{{ $nextSession->psychologist_name ?? '****' }}</span>
                                             <span class="material-symbols-outlined text-secondary-fixed text-[16px]">verified</span>
                                         </div>
                                         <span class="text-[12.5px] text-white/85">{{ $nextSession->session_type ?? 'Clinical Psychologist' }} • <span id="next-session-schedule">{{ $nextSession->schedule ?? 'Friday, 16:00 WIB' }}</span></span>
@@ -416,7 +416,7 @@
                                 <span class="text-[12px] font-medium">Need immediate help?</span>
                             </div>
                             <a class="px-2.5 py-1 rounded-lg bg-rose-600 text-white text-[11.5px] font-semibold hover:bg-rose-700 transition-colors shadow-xs" href="tel:988">
-                                Call 988
+                                Call ***
                             </a>
                         </div>
                     </div>

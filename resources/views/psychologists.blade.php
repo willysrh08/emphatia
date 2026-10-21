@@ -184,7 +184,7 @@
                                     <span class="material-symbols-outlined text-[19px]">videocam</span>
                                     <span>Enter Room</span>
                                 </a>
-                                <button class="p-2.5 rounded-full bg-surface-container-low hover:bg-surface-container text-on-surface transition-colors" title="Message Gladys" type="button">
+                                <button class="p-2.5 rounded-full bg-surface-container-low hover:bg-surface-container text-on-surface transition-colors" title="Message *****" type="button">
                                     <span class="material-symbols-outlined text-[19px] text-primary">chat_bubble</span>
                                 </button>
                             </div>
@@ -244,7 +244,7 @@
                                     </div>
                                     <div>
                                         <h3 class="font-title-md text-title-md text-on-surface font-semibold">Shared Notes</h3>
-                                        <p class="font-caption text-caption text-on-surface-variant">Private reflection with Gladys</p>
+                                        <p class="font-caption text-caption text-on-surface-variant">Private reflection with ****</p>
                                     </div>
                                 </div>
                                 <button class="px-3 py-1 rounded-full bg-surface-container-low text-primary text-label-md font-label-md hover:bg-surface-container transition-colors" type="button">+ Add</button>
